@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="cabeçalho">Cabecalho</string>
+    <string name="meu_app">Meu App</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="m_dia">média</string>
+    <string name="chamada">chamada</string>
+    <string name="perfil">perfil</string>
+    <string name="configurações">configurações</string>
+    <string name="configuração">configuração</string>
+
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_C">C</string>
+    <string name="btn_6">6</string>
+    <string name="btn_5">5</string>
+    <string name="btn_4">4</string>
+    <string name="btn_S">+</string>
+    <string name="btn_3">3</string>
+    <string name="btn_2">2</string>
+    <string name="btn_1">1</string>
+    <string name="btn_M">-</string>
+    <string name="btn_pon">.</string>
+    <string name="btn_ig">=</string>
+    <string name="btn_zero">0</string>
+    <string name="btn_dv">/</string>
+    <string name="btn_vzs">x</string>
+    <string name="btn_ligar">ligar</string>
+    <string name="btn_aster">*</string>
+    <string name="btn_hash">#</string>
+    <string name="btn_regist">registrar</string>
+    <string name="btn_login">login</string>
+    <string name="btn_cad">cadastrar</string>
+
+</resources>

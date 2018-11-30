@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/calculadora"
+            android:title="@string/calculadora"
+            android:icon="@drawable/ic_menu_calculadora"/>
+
+        <item android:id="@+id/calcularMedia"
+            android:title="@string/m_dia"
+            android:icon="@drawable/ic_menu_media"/>
+
+        <item android:id="@+id/chamada"
+            android:title="@string/chamada"
+            android:icon="@drawable/ic_menu_chamada"/>
+
+
+
+    </group>
+
+    <item android:title="@string/configurações">
+        <menu>
+            <item android:id="@+id/configuracao"
+             android:title="@string/configuração"
+                android:icon="@drawable/ic_menu_configuracao"
+                />
+        </menu>
+    </item>
+
+</menu>
